@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 800 800" style="enable-background:new 0 0 800 800;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#0071BC;stroke-miterlimit:10;}
+	.st1{fill:#29ABE2;}
+	.st2{fill:#0071BC;}
+	.st3{font-family:'STIXGeneral-Bold';}
+	.st4{font-size:109.4866px;}
+	.st5{letter-spacing:-1;}
+	.st6{font-size:70.9687px;}
+</style>
+<g id="Слой_2">
+	<line class="st0" x1="501.94" y1="252.08" x2="543.26" y2="210.76"/>
+	<polyline class="st1" points="501.94,252.08 407.57,157.71 313.2,252.08 271.88,210.76 407.57,75.07 543.26,210.76 	"/>
+	<polyline class="st1" points="501.94,547.87 407.57,642.25 313.2,547.87 271.88,589.19 407.57,724.88 543.26,589.19 	"/>
+	<polyline class="st2" points="258.41,305.63 164.04,400 258.41,494.37 217.09,535.69 81.4,400 217.09,264.31 	"/>
+	<polyline class="st2" points="555.13,305.63 649.5,400 555.13,494.37 596.45,535.69 732.14,400 596.45,264.31 	"/>
+	<text transform="matrix(1 0 0 1 277.8834 387.7353)" class="st2 st3 st4 st5">ACM</text>
+	<text transform="matrix(1 0 0 1 333.9798 493.9893)" class="st1 st3 st6">NAU</text>
+</g>
+<g id="Слой_3">
+</g>
+</svg>
